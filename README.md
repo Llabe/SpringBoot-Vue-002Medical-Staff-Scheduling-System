@@ -17,6 +17,7 @@
 - ​**精简架构**：SpringBoot 脚手架结构，模块化设计便于二次开发。  
 
 # 代码结构 
+```
 src/
 ├── main/
 │   ├── java/
@@ -39,7 +40,7 @@ src/
 │   │   ├── mapper/                  # MyBatis映射文件
 │   │   ├── application.yml          # 主配置
 │   │   ├── static/                  # 静态资源
-
+```
 # 使用说明  
 - 后台地址：http://localhost:8080/springbootjf5zc/admin/dist/index.html  
 - 前台地址：http://localhost:8080/springbootjf5zc/front/index.html  
